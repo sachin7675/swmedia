@@ -2,6 +2,6 @@ this is my test file
 
 
 this is my update
-
 this file id updated by dev2
-this file updated by dev3
+<<<<<<< Updated upstream
+this file updated by sachin
